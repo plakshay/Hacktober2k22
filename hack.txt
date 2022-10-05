@@ -1,0 +1,6 @@
+creating a request for hacktober fest 
+
+name: lakshay singhal 
+role: contributor 
+github profie name :plakshay
+github profile link : https://github.com/plakshay
